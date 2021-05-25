@@ -30,7 +30,7 @@ jupyter lab
 
 * [Manhattan distance](https://mybinder.org/v2/gh/tutorials-4newbies/distances/master?filepath=manhattan_distance.ipynb)
 
-* [Hamming distance]
+* [Hamming distance WIP](https://mybinder.org/v2/gh/tutorials-4newbies/distances/master?filepath=hamming_distance.ipynb)
 
 ## Read more
 
