@@ -35,3 +35,5 @@ jupyter lab
 ## Read more
 
 * [4 types of distance metrics](https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/)
+
+* [Hebrew tutorial for distances with colors](https://reshetech.co.il/advanced-javascript-tutorials/euclidean-distance-and-matching-colors)
